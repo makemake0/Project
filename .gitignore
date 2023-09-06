@@ -1,6 +1,6 @@
-#MCB
-secret.*
-secrets.*
+# MCB
+secret.txt*
+secrets.txt*
 
 # Logs
 logs
